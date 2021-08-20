@@ -16,7 +16,7 @@ The analysis was conducted by creating a pivot table from the Kickstarter worksh
 
 ### Analysis of Outcomes Based on Goals
 
-For this analysis the new Table was created with the list of new columns and rows which contain preset "goal" amount ranges. To calculate the number of successful, failed and cancelled plays the COUNTIFS() formula was used with several conditions, as filtering on the Kickstarter "outcome" column, on the "goal" amount column using the "goal" amount ranges, and on the "Subcategory" column using "plays" as the criteria. Then the respective percentage was calculated from total amount of plays in every amount range. As the last step, [this]() graph was created. 
+For this analysis the new Table was created with the list of new columns and rows which contain preset "goal" amount ranges. To calculate the number of successful, failed and cancelled plays the COUNTIFS() formula was used with several conditions, as filtering on the Kickstarter "outcome" column, on the "goal" amount column using the "goal" amount ranges, and on the "Subcategory" column using "plays" as the criteria. Then the respective percentage was calculated from total amount of plays in every amount range. As the last step, [this](https://github.com/AlekseiPronin/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png) graph was created. 
 
  
 
