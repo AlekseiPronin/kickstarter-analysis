@@ -10,7 +10,7 @@ This analysis is organized based on Kickstarter worksheet. The main goal of this
 
 ### Analysis of Outcomes Based on Launch Date
 
-The analysis was conducted by creating a pivot table from the Kickstarter worksheet. Then the table was filtered by "Parent Category" and "Years". Columns, raws and values were filled out with pivot table fields. After this step "theatre" filter was applied to "Parent Category" and "live" was unchecked in column labels. After that, campaign outcomes were sorted in descending order. As the last step, [this]() graph was created. 
+The analysis was conducted by creating a pivot table from the Kickstarter worksheet. Then the table was filtered by "Parent Category" and "Years". Columns, raws and values were filled out with pivot table fields. After this step "theatre" filter was applied to "Parent Category" and "live" was unchecked in column labels. After that, campaign outcomes were sorted in descending order. As the last step, [this](https://github.com/AlekseiPronin/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png) graph was created. 
  
 
 
